@@ -1,5 +1,5 @@
 // League Data Lookup - Calls Riot API via Lambda
-const RIOT_API_URL = 'https://mp2iubgbfd75dkpktk5q7nbgei0icebm.lambda-url.ap-south-1.on.aws/'; // Replace with your Function URL
+const RIOT_API_URL = 'https://hzjr6pvwl3grlacd4wsudgyaja0mehty.lambda-url.ap-south-1.on.aws/'; // Replace with your Function URL
 
 document.addEventListener('DOMContentLoaded', function() {
     const lookupBtn = document.getElementById('lookup-btn');
